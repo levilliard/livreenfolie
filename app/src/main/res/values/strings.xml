@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Livre En Folie</string>
+
+    <!--    test-->
+<!--    <string name="ad_unit">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="ad_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+
+    <!--    real-->
+        <string name="ad_unit">ca-app-pub-9377483610431742/9073114433</string>
+        <string name="ad_app_id">ca-app-pub-9377483610431742~8362667998</string>
+
+    <string name="action_search">Recherche</string>
+
+    <string name="drawer_open">Menu Opened</string>
+    <string name="drawer_close">Menu Closed</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="title_activity_article_details">LivreDetailsActivity</string>
+
+    <string name="app_desc">Livre En Folie est le meilleur moyen de lire et d\'écouter le journalisme ecrit et audio
+        des principaux journaux et magazines, à tout moment, n\'importe où. Elle fournit
+        les resumés des articles grace à l\'intélligence artificielle. Elle permet aussi d\'enrégistrer les emmisions
+        des stations radio en Haiti</string>
+
+    <string-array name="article_categories">
+        <item>Arts</item>
+        <item>Business</item>
+        <item>Technologie</item>
+        <item>Politique</item>
+        <item>Santé</item>
+        <item>Culture</item>
+        <item>Science</item>
+        <item>Societé</item>
+        <item>Sports</item>
+        <item>Education</item>
+        <item>Actus</item>
+    </string-array>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

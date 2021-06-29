@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Local" />
+        <item
+            android:id="@+id/nav_audio"
+            android:icon="@drawable/ic_headset_black_24dp"
+            android:title="Podcast" />
+        <!--        <item-->
+        <!--            android:id="@+id/nav_setting"-->
+        <!--            android:icon="@drawable/ic_settings_black_24dp"-->
+        <!--            android:title="Parametre" />-->
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Apropos" />
+
+    </group>
+
+    <item android:title="Communauté">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share_white_24dp"
+                android:title="Partage" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_star_black_24dp"
+                android:title="Noter l'application" />
+        </menu>
+    </item>
+</menu>
